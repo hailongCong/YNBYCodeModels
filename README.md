@@ -1,2 +1,2 @@
 # YNBYCodeModels
-这是一个组件代码库，models 
+这是一个模型组件代码库，models 
