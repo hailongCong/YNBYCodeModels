@@ -1,0 +1,6 @@
+framework module codeTool {
+  umbrella header "codeTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

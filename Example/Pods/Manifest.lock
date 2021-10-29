@@ -1,0 +1,16 @@
+PODS:
+  - codeTool (0.1.0)
+
+DEPENDENCIES:
+  - codeTool (from `../`)
+
+EXTERNAL SOURCES:
+  codeTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  codeTool: 7a91cf967354b6d95b600ffabe142b15b49f53f0
+
+PODFILE CHECKSUM: 38dd7359a537b5ad1e21fed9e0222745047d3516
+
+COCOAPODS: 1.10.1
